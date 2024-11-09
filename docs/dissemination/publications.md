@@ -14,6 +14,7 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 :material-video: [Recording](https://www.youtube.com/watch?v=WycM5GDkRr0)
 -->
 
+1. Pleşa, M.-I. and Olimid, R.F. (2024) Privacy-Preserving Multi-Party Search via Homomorphic Encryption with Constant Multiplicative Depth. Available at: https://eprint.iacr.org/2024/1800.
 ## Talks
 
 ### 2024
