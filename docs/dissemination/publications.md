@@ -14,7 +14,7 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 :material-video: [Recording](https://www.youtube.com/watch?v=WycM5GDkRr0)
 -->
 
-1. Pleşa, M.-I. and Olimid, R.F. (2024) Privacy-Preserving Multi-Party Search via Homomorphic Encryption with Constant Multiplicative Depth. <br>
+1. Pleşa, M.-I. and Olimid, R.F. (2024) Privacy-Preserving Multi-Party Search via Homomorphic Encryption with Constant Multiplicative Depth - Accepted at SECITC 2024. <br>
 [Conference Version](https://eprint.iacr.org/2024/1800)
 [Slides](https://drive.google.com/file/d/1YYFa9cvNBZ7lV6qB8gwFhp3N8wPvO5iW/view?usp=sharing)
 ## Talks
@@ -26,6 +26,10 @@ interdisciplinaire sur la sécurité globale, WISG 2022, Online, January 26-26.
 <br>
 :material-video: [Video](https://drive.google.com/file/d/1bscDaNEs7AI1zDgzbOYGoKUvd4FY_MN_/view?usp=share_link)
 -->
+
+1. Drăgnoiu, A.E., Olimid, R.F., Pleșa, M.I. - PrivAcy-preserving disTribuTed cyberthreat aNalytics – PATTERN, 2024 Annual Communication Conference of Research Results at the University of Bucharest.
+<br>
+[Slides](https://drive.google.com/file/d/1lMWK42wYqZUKbBJFQvuoFcaKJx4KOdSN/view?usp=sharing)
 
 ## Software
 
