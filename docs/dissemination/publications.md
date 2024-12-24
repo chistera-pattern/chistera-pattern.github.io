@@ -19,7 +19,7 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 [Slides](https://drive.google.com/file/d/1YYFa9cvNBZ7lV6qB8gwFhp3N8wPvO5iW/view?usp=sharing)
 
 2. Drăgnoiu, A.E., Olimid. Towards an identity management solution on Arweave - Preprint. <br>
-[Preprint Version](https://drive.google.com/file/d/1tDHQnh9JpukuYrY9xFuiTYWQYpq2SR19/view?usp=sharing)
+[Preprint Version](https://arxiv.org/pdf/2412.13865)
 ## Talks
 
 ### 2024
