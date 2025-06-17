@@ -9,3 +9,7 @@ you need access to deliverables classified as internal please get in touch.
 **D2.1** Use Case Specification ([:fontawesome-regular-file-pdf: .pdf][D2.1]{:target="_blank"})
 
 [D2.1]: https://drive.google.com/file/d/1A18Oll2maAI7JE04mbCjLfHXizuG_-PD/view?usp=sharing
+
+**D1.1** 1st Year Progress Report ([:fontawesome-regular-file-pdf: .pdf][D2.1]{:target="_blank"})
+
+[D1.1]: https://nextcloud.eurecom.fr/s/gsW7RF5cHbQEzH5
