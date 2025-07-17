@@ -23,3 +23,10 @@ you need access to deliverables classified as internal please get in touch.
 
 [D3.1]: https://drive.google.com/file/d/15B90mbwVy0CvbaTLOgVWYykPXuC_YN0k/view?usp=sharing
 
+
+## WP5 Dissemination and Exploitation
+
+**D5.2** Intermediate Report on Dissemination and Exploitation ([:fontawesome-regular-file-pdf: .pdf][D2.1]{:target="_blank"})
+
+[D5.2]: 
+
