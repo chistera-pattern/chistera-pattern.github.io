@@ -17,3 +17,9 @@ you need access to deliverables classified as internal please get in touch.
 [D2.1]: https://drive.google.com/file/d/1A18Oll2maAI7JE04mbCjLfHXizuG_-PD/view?usp=sharing
 
 
+## WP3 Privacy-Preserving Federated Analytics
+
+**D3.1** Preliminary Design of Privacy and Integrity Tools ([:fontawesome-regular-file-pdf: .pdf][D2.1]{:target="_blank"})
+
+[D3.1]: https://drive.google.com/file/d/15B90mbwVy0CvbaTLOgVWYykPXuC_YN0k/view?usp=sharing
+
