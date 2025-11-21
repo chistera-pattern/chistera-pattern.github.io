@@ -26,7 +26,7 @@ you need access to deliverables classified as internal please get in touch.
 
 ## WP5 Dissemination and Exploitation
 
-**D5.2** Intermediate Report on Dissemination and Exploitation 
+**D5.2** Intermediate Report on Dissemination and Exploitation ([:fontawesome-regular-file-pdf: .pdf][D5.2]{:target="_blank"})
 
 [D5.2]: https://nextcloud.eurecom.fr/s/RPWfkwp7A2YWD74
 
