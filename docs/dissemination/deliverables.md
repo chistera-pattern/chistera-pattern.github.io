@@ -39,7 +39,7 @@ you need access to deliverables classified as internal please get in touch.
 
 ### DISCLAIMER
 
-Some of the deliverables might not yet been validated by all the funding agencies.
+Some of the deliverables might have not yet been validated by all the funding agencies.
 
 
 
