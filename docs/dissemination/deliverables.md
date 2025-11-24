@@ -30,3 +30,17 @@ you need access to deliverables classified as internal please get in touch.
 
 [D5.2]: https://nextcloud.eurecom.fr/s/RPWfkwp7A2YWD74
 
+
+
+
+
+
+
+
+### DISCLAIMER
+
+Some of the deliverables might not yet been validated by all the funding agencies.
+
+
+
+
