@@ -26,7 +26,7 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 
 2. Faonio, A., Fiore, D., Russo, L. (2024, October). Simulation-Extractable Universal zkSNARKs: Optimized and Real-World Applications. In ACM Conference on Computer and Communications Security (CCS 2024). <br>
 [Conference Version](https://dl.acm.org/doi/abs/10.1145/3658644.3690351)
-
+[Pre-print](https://eprint.iacr.org/2024/721)
 
 ### 2025
 
@@ -44,7 +44,7 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 
 4. Campanelli, M., Faonio, A., Russo, L. (2025). SNARKs for Virtual Machines Are Non-malleable. In: Advances in Cryptology – EUROCRYPT 2025 (pp. 153–183). Cham: Springer Nature Switzerland. <br>
 [Conference Version](https://link.springer.com/chapter/10.1007/978-3-031-91134-7_6)
-
+[Pre-print](https://eprint.iacr.org/2024/1551)
 
 
 
@@ -66,8 +66,7 @@ interdisciplinaire sur la sécurité globale, WISG 2022, Online, January 26-26.
 1. Drăgnoiu, A.E. - Identity Management on (Arweave) Blockchain, 12th ACM Celebration of Women in Computing: womENcourage™ Brașov, September, 17-19th, 2025. <br>
 [Poster](https://drive.google.com/file/d/1G-uWNY4wPF5oMb-y6J8L6fXi4YmIxiYf/view?usp=sharing)
 
-2. Ciobanu, A., Drăgnoiu, Ionescu, I, A.E., Olimid, R.F.- PrivAcy-preserving disTribuTed cyberthreat aNalytics – PATTERN, Second year, Annual Communication Conference of Research Results at the University of Bucharest, November, 25-28th, 2025.<br>
-[Slides](https://drive.google.com/file/d/1ozhUP3_9-iCskDWG8hf3K98c8dLHuQMb/view?usp=sharing)
+==== BASE ====
 
 ## Software
 
