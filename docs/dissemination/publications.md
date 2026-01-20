@@ -20,7 +20,7 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 [Slides](https://drive.google.com/file/d/1YYFa9cvNBZ7lV6qB8gwFhp3N8wPvO5iW/view?usp=sharing)
 
 2. Drăgnoiu, A.E., Olimid. Towards an identity management solution on Arweave - Preprint. <br>
-[Preprint Version](https://arxiv.org/pdf/2412.13865)
+[Pre-print](https://arxiv.org/pdf/2412.13865)
 
 ### 2025
 
@@ -28,7 +28,12 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 [Conference Version](https://ieeexplore.ieee.org/document/11095611)
 [Pre-print](https://arxiv.org/pdf/2506.10721)
 [Slides](https://drive.google.com/file/d/1GO3toXtu3cUlZFmLMCRi4B3jLYeNo3vx/view)
-  
+
+2. Drăgnoiu, A.E., Ciobanu, A., Olimid, R.F. On Addressing Isolation in Blockchain-Based Self-Sovereign Identity. Preprint. Under review. <br>
+[Pre-print](https://arxiv.org/abs/2511.18379)
+
+3. Olimid, R.F. (2025). Multi-Party Functional Encryption (MPFE): A powerful tool in the distributed and decentralized world - Preprint. Cryptology ePrint Archive, Paper 2025/1902. Under review. <br>
+[Pre-print](https://eprint.iacr.org/2025/1902)
    
 ## Talks
 
@@ -42,6 +47,14 @@ interdisciplinaire sur la sécurité globale, WISG 2022, Online, January 26-26.
 
 1. Drăgnoiu, A.E., Olimid, R.F., Pleșa, M.I. - PrivAcy-preserving disTribuTed cyberthreat aNalytics – PATTERN, 2024 Annual Communication Conference of Research Results at the University of Bucharest. <br>
 [Slides](https://drive.google.com/file/d/1lMWK42wYqZUKbBJFQvuoFcaKJx4KOdSN/view?usp=sharing)
+
+### 2025
+
+1. Drăgnoiu, A.E. - Identity Management on (Arweave) Blockchain, 12th ACM Celebration of Women in Computing: womENcourage™ Brașov, September, 17-19th, 2025. <br>
+[Poster](https://drive.google.com/file/d/1G-uWNY4wPF5oMb-y6J8L6fXi4YmIxiYf/view?usp=sharing)
+
+2. Ciobanu, A., Drăgnoiu, Ionescu, I, A.E., Olimid, R.F.- PrivAcy-preserving disTribuTed cyberthreat aNalytics – PATTERN, Second year, Annual Communication Conference of Research Results at the University of Bucharest, November, 25-28th, 2025.<br>
+[Slides](https://drive.google.com/file/d/1ozhUP3_9-iCskDWG8hf3K98c8dLHuQMb/view?usp=sharing)
 
 ## Software
 
