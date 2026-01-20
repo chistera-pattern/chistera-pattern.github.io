@@ -66,7 +66,6 @@ interdisciplinaire sur la sécurité globale, WISG 2022, Online, January 26-26.
 1. Drăgnoiu, A.E. - Identity Management on (Arweave) Blockchain, 12th ACM Celebration of Women in Computing: womENcourage™ Brașov, September, 17-19th, 2025. <br>
 [Poster](https://drive.google.com/file/d/1G-uWNY4wPF5oMb-y6J8L6fXi4YmIxiYf/view?usp=sharing)
 
-==== BASE ====
 
 ## Software
 
