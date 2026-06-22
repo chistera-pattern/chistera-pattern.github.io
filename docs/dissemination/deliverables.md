@@ -12,7 +12,7 @@ you need access to deliverables classified as internal please get in touch.
 
 **D1.2** 2nd year progress report and data management plan ([:fontawesome-regular-file-pdf: .pdf][D1.2]{:target="_blank"})
 
-[D1.1]: https://nextcloud.eurecom.fr/s/WrmBBg9qXakans4
+[D1.2]: https://nextcloud.eurecom.fr/s/WrmBBg9qXakans4
 
 ## WP2 Requirements Elicitation and Technical Analysis
 
