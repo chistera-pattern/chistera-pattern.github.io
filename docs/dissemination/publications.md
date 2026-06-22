@@ -48,6 +48,11 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 
 
 
+## 2026 
+
+6. Ferran Alborch, Andreas Athanasiou, Pascal Reisert. Optimizing Differential Privacy in Federated Analytics under Known Input Distributions. 2026. 
+[Pre-print](https://hal.science/hal-05575638v1)
+
 ## Talks
 
 ### 2024
