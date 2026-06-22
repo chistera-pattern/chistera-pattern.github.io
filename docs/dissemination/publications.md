@@ -22,6 +22,12 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 2. Drăgnoiu, A.E., Olimid. Towards an identity management solution on Arweave - Preprint. <br>
 [Pre-print](https://arxiv.org/pdf/2412.13865)
 
+
+
+2. Faonio, A., Fiore, D., Russo, L. (2024, October). Simulation-Extractable Universal zkSNARKs: Optimized and Real-World Applications. In ACM Conference on Computer and Communications Security (CCS 2024). <br>
+[Conference Version](https://dl.acm.org/doi/abs/10.1145/3658644.3690351)
+[Pre-print](https://eprint.iacr.org/2024/721)
+
 ### 2025
 
 1. Ionescu, I., Olimid, R.F. (2025). Commitment Schemes for Multi-Party Computation. 2025 17th International Conference on Electronics, Computers and Artificial Intelligence (ECAI), Targoviste, Romania, 2025, pp. 1-7, doi: 10.1109/ECAI65401.2025.11095611. <br>
@@ -35,6 +41,13 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 3. Olimid, R.F. (2025). Multi-Party Functional Encryption (MPFE): A powerful tool in the distributed and decentralized world - Preprint. Cryptology ePrint Archive, Paper 2025/1902. Under review. <br>
 [Pre-print](https://eprint.iacr.org/2025/1902)
    
+
+4. Campanelli, M., Faonio, A., Russo, L. (2025). SNARKs for Virtual Machines Are Non-malleable. In: Advances in Cryptology – EUROCRYPT 2025 (pp. 153–183). Cham: Springer Nature Switzerland. <br>
+[Conference Version](https://link.springer.com/chapter/10.1007/978-3-031-91134-7_6)
+[Pre-print](https://eprint.iacr.org/2024/1551)
+
+
+
 ## Talks
 
 ### 2024
@@ -53,8 +66,6 @@ interdisciplinaire sur la sécurité globale, WISG 2022, Online, January 26-26.
 1. Drăgnoiu, A.E. - Identity Management on (Arweave) Blockchain, 12th ACM Celebration of Women in Computing: womENcourage™ Brașov, September, 17-19th, 2025. <br>
 [Poster](https://drive.google.com/file/d/1G-uWNY4wPF5oMb-y6J8L6fXi4YmIxiYf/view?usp=sharing)
 
-2. Ciobanu, A., Drăgnoiu, Ionescu, I, A.E., Olimid, R.F.- PrivAcy-preserving disTribuTed cyberthreat aNalytics – PATTERN, Second year, Annual Communication Conference of Research Results at the University of Bucharest, November, 25-28th, 2025.<br>
-[Slides](https://drive.google.com/file/d/1ozhUP3_9-iCskDWG8hf3K98c8dLHuQMb/view?usp=sharing)
 
 ## Software
 
