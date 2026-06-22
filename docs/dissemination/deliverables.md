@@ -10,6 +10,10 @@ you need access to deliverables classified as internal please get in touch.
 [D1.1]: https://nextcloud.eurecom.fr/s/gsW7RF5cHbQEzH5
 
 
+**D1.2** 2nd year progress report and data management plan ([:fontawesome-regular-file-pdf: .pdf][D1.2]{:target="_blank"})
+
+[D1.1]: https://nextcloud.eurecom.fr/s/WrmBBg9qXakans4
+
 ## WP2 Requirements Elicitation and Technical Analysis
 
 **D2.1** Use Case Specification ([:fontawesome-regular-file-pdf: .pdf][D2.1]{:target="_blank"})
@@ -23,6 +27,12 @@ you need access to deliverables classified as internal please get in touch.
 
 [D3.1]: https://drive.google.com/file/d/15B90mbwVy0CvbaTLOgVWYykPXuC_YN0k/view?usp=sharing
 
+
+## WP4 Validation
+
+**D4.1** Use Case prototypes v1 and evaluation ([:fontawesome-regular-file-pdf: .pdf][D4.1]{:target="_blank"})
+
+[D4.1]:  https://nextcloud.eurecom.fr/s/XYoyakJaF8a923r
 
 ## WP5 Dissemination and Exploitation
 
