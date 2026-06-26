@@ -40,18 +40,21 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 
 3. Olimid, R.F. (2025). Multi-Party Functional Encryption (MPFE): A powerful tool in the distributed and decentralized world - Preprint. Cryptology ePrint Archive, Paper 2025/1902. Under review. <br>
 [Pre-print](https://eprint.iacr.org/2025/1902)
-   
 
 4. Campanelli, M., Faonio, A., Russo, L. (2025). SNARKs for Virtual Machines Are Non-malleable. In: Advances in Cryptology – EUROCRYPT 2025 (pp. 153–183). Cham: Springer Nature Switzerland. <br>
 [Conference Version](https://link.springer.com/chapter/10.1007/978-3-031-91134-7_6)
 [Pre-print](https://eprint.iacr.org/2024/1551)
 
-
+5. Desmoulins, N., Dumanois, A., Kane, S., Traoré, J. (2025). Making BBS Anonymous Credentials eIDAS 2.0 Compliant - Security Standardisation Research. <br>
+[Pre-print](https://eprint.iacr.org/2025/619)
 
 ## 2026 
 
 6. Ferran Alborch, Andreas Athanasiou, Pascal Reisert. Optimizing Differential Privacy in Federated Analytics under Known Input Distributions. 2026. 
 [Pre-print](https://hal.science/hal-05575638v1)
+
+7. Kaaniche, N., Kane, S., Laurent, M., Traoré, J. (2026). Improved Issuer Hiding for BBS-based Anonymous Credentials. Preprint. <br>
+[Pre-print](https://eprint.iacr.org/2026/555)
 
 ## Talks
 
