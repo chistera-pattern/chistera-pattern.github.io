@@ -22,9 +22,7 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 2. Drăgnoiu, A.E., Olimid. Towards an identity management solution on Arweave - Preprint. <br>
 [Pre-print](https://arxiv.org/pdf/2412.13865)
 
-
-
-2. Faonio, A., Fiore, D., Russo, L. (2024, October). Simulation-Extractable Universal zkSNARKs: Optimized and Real-World Applications. In ACM Conference on Computer and Communications Security (CCS 2024). <br>
+3. Faonio, A., Fiore, D., Russo, L. (2024, October). Simulation-Extractable Universal zkSNARKs: Optimized and Real-World Applications. In ACM Conference on Computer and Communications Security (CCS 2024). <br>
 [Conference Version](https://dl.acm.org/doi/abs/10.1145/3658644.3690351)
 [Pre-print](https://eprint.iacr.org/2024/721)
 
@@ -35,26 +33,27 @@ and Privacy, SP 2022, San Francisco, CA, US, May 22-26, pp. 2430-2449. <br>
 [Pre-print](https://arxiv.org/pdf/2506.10721)
 [Slides](https://drive.google.com/file/d/1GO3toXtu3cUlZFmLMCRi4B3jLYeNo3vx/view)
 
-2. Drăgnoiu, A.E., Ciobanu, A., Olimid, R.F. On Addressing Isolation in Blockchain-Based Self-Sovereign Identity. Preprint. Under review. <br>
-[Pre-print](https://arxiv.org/abs/2511.18379)
-
-3. Olimid, R.F. (2025). Multi-Party Functional Encryption (MPFE): A powerful tool in the distributed and decentralized world - Preprint. Cryptology ePrint Archive, Paper 2025/1902. Under review. <br>
+2. Olimid, R.F. (2025). Multi-Party Functional Encryption (MPFE): A powerful tool in the distributed and decentralized world - Preprint. Cryptology ePrint Archive, Paper 2025/1902. Under review. <br>
 [Pre-print](https://eprint.iacr.org/2025/1902)
 
-4. Campanelli, M., Faonio, A., Russo, L. (2025). SNARKs for Virtual Machines Are Non-malleable. In: Advances in Cryptology – EUROCRYPT 2025 (pp. 153–183). Cham: Springer Nature Switzerland. <br>
+3. Campanelli, M., Faonio, A., Russo, L. (2025). SNARKs for Virtual Machines Are Non-malleable. In: Advances in Cryptology – EUROCRYPT 2025 (pp. 153–183). Cham: Springer Nature Switzerland. <br>
 [Conference Version](https://link.springer.com/chapter/10.1007/978-3-031-91134-7_6)
 [Pre-print](https://eprint.iacr.org/2024/1551)
 
-5. Desmoulins, N., Dumanois, A., Kane, S., Traoré, J. (2025). Making BBS Anonymous Credentials eIDAS 2.0 Compliant - Security Standardisation Research. <br>
+4. Desmoulins, N., Dumanois, A., Kane, S., Traoré, J. (2025). Making BBS Anonymous Credentials eIDAS 2.0 Compliant - Security Standardisation Research. <br>
 [Pre-print](https://eprint.iacr.org/2025/619)
 
 ## 2026 
 
-6. Ferran Alborch, Andreas Athanasiou, Pascal Reisert. Optimizing Differential Privacy in Federated Analytics under Known Input Distributions. 2026. 
+1. Alborch, F., Athanasiou, A., Reisert, P. Optimizing Differential Privacy in Federated Analytics under Known Input Distributions. 2026. <br>
 [Pre-print](https://hal.science/hal-05575638v1)
 
-7. Kaaniche, N., Kane, S., Laurent, M., Traoré, J. (2026). Improved Issuer Hiding for BBS-based Anonymous Credentials. Preprint. <br>
+2. Kaaniche, N., Kane, S., Laurent, M., Traoré, J. (2026). Improved Issuer Hiding for BBS-based Anonymous Credentials. Preprint. <br>
 [Pre-print](https://eprint.iacr.org/2026/555)
+
+3. Drăgnoiu, A.E., Ciobanu, A., Olimid, R.F. On Addressing Isolation in Blockchain-Based Self-Sovereign Identity. Proceedings of the 12th International Conference on Information Systems Security and Privacy, ICISSP 2026 - Volume 1, pp. 257-264, Marbella, Spain, March 4-6, 2026. SCITEPRESS 2026, ISBN 978-989-758-800-6 ICISSP 2026.<br>
+[Pre-print](https://arxiv.org/pdf/2511.18379)
+[Slides](https://drive.google.com/file/d/1ijC-KY7DwY0_NRfxxQG07HgPevdole_u/view)
 
 ## Talks
 
@@ -74,16 +73,28 @@ interdisciplinaire sur la sécurité globale, WISG 2022, Online, January 26-26.
 1. Drăgnoiu, A.E. - Identity Management on (Arweave) Blockchain, 12th ACM Celebration of Women in Computing: womENcourage™ Brașov, September, 17-19th, 2025. <br>
 [Poster](https://drive.google.com/file/d/1G-uWNY4wPF5oMb-y6J8L6fXi4YmIxiYf/view?usp=sharing)
 
+2. Ciobanu, A., Drăgnoiu, A.E., Ionescu, I, Olimid, R.F.- PrivAcy-preserving disTribuTed cyberthreat aNalytics – PATTERN, Second year, 2025 Annual Communication Conference of Research Results at the University of Bucharest, 25-28 November 2025. <br>
+[Slides](https://drive.google.com/file/d/1ozhUP3_9-iCskDWG8hf3K98c8dLHuQMb/view?usp=sharing)
+
+### 2026
+
+1. Faonio, A - Making zkSNARKs Non-Malleable, Cryptography Seminar, University of Bucharest <br>
+[LinkedIn Announcement](https://www.linkedin.com/feed/update/urn:li:activity:7472896079907311616)
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7475485262614294529)
 
 ## Software
 
-### 2024
+### 2025
 <!---
 1. Robert Bosch GmbH: _Carbyne Stack - Cloud Native Secure Multiparty
 Computation Platform_. <br>
 :material-web: [Website](https://carbynestack.io) &emsp; :material-github:
 [GitHub Organization](https://github.com/carbynestack)
 -->
+
+1. IdM Arweave [GitHub](https://github.com/andreea-drg-01/arweave-idm)
+   
+3. Two MSc thesis in collaboration UB-LIST [GitHub MSc thesis 1](https://github.com/maria19ioana/enhanced-detective-fl) and [GitHub MSc thesis 2](https://github.com/xBisharp/Fed_learning_SecAgg)
 
 ## Miscellaneous
 
